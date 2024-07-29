@@ -1,0 +1,6 @@
+openai[datalib]
+FastAPI
+uvicorn[standard]
+python-multipart
+pymongo[srv]
+python-dotenv
